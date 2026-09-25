@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Opus Magnum",
+  "classifications": [ "Common", "Console" ],
+  "identity": "OpusMagnumTemplate",
+  "name": "Opus Magnum Template",
+  "shortName": "omtemplate",
+  "sourceName":"ExampleMod",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}

@@ -2,9 +2,9 @@
   "mod_id": "template_modid",
   "version": "0.0.1",
   "mod_page_url": "",
-  "dll": "TemplateMod.dll",
+  "dll": "bin/Debug/net10.0/template_modid.dll",
   "authors": [],
-  "icon": "textures/MyModName/icon",
+  "icon": "textures/template_modid/icon",
   "mappings": "",
   "dependencies": {
     "quintessential_core": "[0.7.0,)",

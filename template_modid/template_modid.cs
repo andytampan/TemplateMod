@@ -1,6 +1,6 @@
 ﻿using Quintessential;
 
-namespace TemplateMod;
+namespace template_modid;
 
 internal class TemplateMod : QuintessentialMod, IDataMod {
     public static TemplateMod Instance { get; }

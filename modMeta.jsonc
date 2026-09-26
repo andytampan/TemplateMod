@@ -2,7 +2,7 @@
   "mod_id": "template_modid",
   "version": "0.0.1",
   "mod_page_url": "",
-  "dll": "bin/Debug/net10.0/template_modid.dll",
+  "dll": "template_modid.dll",
   "authors": [],
   "icon": "textures/template_modid/icon",
   "mappings": "",

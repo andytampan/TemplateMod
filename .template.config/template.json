@@ -5,7 +5,7 @@
   "identity": "OpusMagnumTemplate",
   "name": "Opus Magnum Template",
   "shortName": "omtemplate",
-  "sourceName":"ExampleMod",
+  "sourceName":"template_modid",
   "tags": {
     "language": "C#",
     "type": "project"
